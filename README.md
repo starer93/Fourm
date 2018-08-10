@@ -1,3 +1,3 @@
 # Fourm
 
-Demo project for vue + sring boot
+Demo project for vue + spring boot
