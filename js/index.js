@@ -25,6 +25,166 @@ const tweets = [{
         date:"11-04-2018",
         likes: 18,
     }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
+    ,
+    {
+        id: 3,
+        name: 'Xin',
+        img: 'https://semantic-ui.com/images/avatar2/large/elyse.png',
+        tweet: 'Beauty in the struggle, ugliness in the success.',
+        jd: "here is some random description,asdafasfasfadsfadfalß",
+        date:"11-04-2018",
+        likes: 18,
+    }
 ]
 
 Vue.component('tweet-component', {
